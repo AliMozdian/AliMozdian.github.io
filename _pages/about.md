@@ -13,14 +13,12 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My name is Ali Mozdianfard, and I'm currently a student of Computer Engineering at IUST. I have been programming since I was 12 years old, which has given me an advantage over those who started later. Programming has always been a hobby for me, and I find it enjoyable and rewarding.
+I started coding with Python and later learned C++ and QBasic in parallel with Python. I used C++ for solving Codeforces problems and QBasic for developing a simple mobile app for our school's annual seminar. Unfortunately, the seminar was canceled due to the COVID-19 pandemic.
+During the quarantine era of 2020-2021, I started learning C# for developing an FPS game via Unity in a team of six. Currently, I am learning and using C in IUST. Initially, I was uninterested in the family of C languages because of my preference for Python. However, after understanding the power of freely doing anything with C in lower levels of programming (closer to machine language), I regretted my avoidance and developed an eagerness for C.
