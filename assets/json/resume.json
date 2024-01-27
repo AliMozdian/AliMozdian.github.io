@@ -1,113 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ali Mozdianfard",
+    "label": "Student of Computer Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ali_mozdianfard@comp.iust.ac.ir",
+    "phone": "",
+    "url": "https://alimozdian.github.io",
+    "summary": "A student wishing to make a great impact on the world and tech in the future",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Tehran",
+      "Country": "Iran",
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "AliMozdian",
+        "url": "https://github.com/AliMozdian"
+      },
+      {
+        "network": "Email",
+        "email address": "ali_mozdianfard@comp.iust.ac.ir"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "institution": "Iran's University of Sciences and Technology (I.U.S.T.)",
+      "location": "Tehran, Iran",
       "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "field of study": "Computer Engineering",
+      "studyType": "Bachelor's degree",
+      "startDate": "2024-09-23",
+      "endDate": "Not Yet!",
+      "score": "Unknown",
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "1st place in A.I. competition of SamCode",
+      "date": "Feb 2020",
+      "awarder": "SamCode",
+      "summary": "SamCode is a programming team competition between 7th, 8th and 9th grade students of Sampad schools in Tehran.",
+      "in partnership with": "Pooya Shams Kolahi"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "2nd place in C.T.F. competition of SamCode",
+      "date": "Feb 2020",
+      "awarder": "SamCode",
+      "summary": "SamCode is a programming team competition between 7th, 8th and 9th grade students of Sampad schools in Tehran.",
+      "in partnership with": "Pooya Shams Kolahi"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "4th place in Front-end competition of SamCode",
+      "date": "Feb 2020",
+      "awarder": "SamCode",
+      "summary": "SamCode is a programming team competition between 7th, 8th and 9th grade students of Sampad schools in Tehran.",
+      "in partnership with": "Pooya Shams Kolahi"
     }
   ],
   "publications": [
@@ -135,65 +83,81 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Python",
+      "level": "Advanced",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Sucket Programming",
+        "Simple Games Development",
+        "Back-end Development"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Persian",
       "fluency": "Native speaker",
-      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
+      "fluency": "Intermediate",
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Novice"
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Programming",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "Software",
+        "Network & Security",
+        "Game Development"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Biking",
+      "icon": "",
+      "keywords": [
+        "Long path",
+        "In group"
+      ]
+    },
+    {
+      "name": "hiking",
+      "icon": "",
+      "keywords": [
+        "Nature",
+        "Peace Of Mind"
+      ]
+    },
+    {
+      "name": "Music",
+      "icon": "",
+      "keywords": [
+        "Tranditional Persian Music",
+        "Western Classic Music",
+        "A vast range of different genres of musc"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Digi-Board",
+      "summary": "A bread-board simulator, done via python and pygame library",
+      "highlights": ["Simulation"],
+      "startDate": "Dec 2018",
+      "endDate": "May 2019"
+    },
+    {
+      "name": "Online Chat-room System",
+      "summary": "An online sucket programming projects which is a chat-room system with managing features over rooms and the security of messages, like a messager app",
+      "highlights": ["Network", "Security", "Sucket"],
+      "startDate": "Aug 2021",
+      "endDate": "Sept 2021"
     }
   ]
 }
