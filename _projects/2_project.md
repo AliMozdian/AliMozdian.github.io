@@ -2,7 +2,7 @@
 layout: page
 title: Gangster In Darkness
 description: A 2v2 2D (view from above) simple shooter game with a fully destroyable and wall placeable map, done via python and pygame
-importance: 1
+importance: 2
 category: school
 giscus_comments: true
 tag: game, 2D, python, pygame
