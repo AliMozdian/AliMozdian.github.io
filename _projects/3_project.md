@@ -4,7 +4,7 @@ title: Online Chat-room System (security attacks and defends)
 description: A chat-room system with accounts, private and public, user credits, transport the credits and use it for VIP options, etc.
 importance: 3
 tag: security, chat-room, server, sucket, thread, python
-category: Summertime
+category: summertime
 ---
 
 This project was done in August 2021, step-by-step.
