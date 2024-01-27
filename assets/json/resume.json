@@ -9,7 +9,7 @@
     "summary": "A student wishing to make a great impact on the world and tech in the future",
     "location": {
       "city": "Tehran",
-      "Country": "Iran",
+      "Country": "Iran"
     },
     "profiles": [
       {
@@ -32,7 +32,7 @@
       "studyType": "Bachelor's degree",
       "startDate": "2024-09-23",
       "endDate": "Not Yet!",
-      "score": "Unknown",
+      "score": "Unknown"
     }
   ],
   "awards": [
@@ -95,11 +95,11 @@
   "languages": [
     {
       "language": "Persian",
-      "fluency": "Native speaker",
+      "fluency": "Native speaker"
     },
     {
       "language": "English",
-      "fluency": "Intermediate",
+      "fluency": "Intermediate"
     },
     {
       "language": "Spanish",
@@ -148,14 +148,20 @@
     {
       "name": "Digi-Board",
       "summary": "A bread-board simulator, done via python and pygame library",
-      "highlights": ["Simulation"],
+      "highlights": [
+        "Simulation"
+      ],
       "startDate": "Dec 2018",
       "endDate": "May 2019"
     },
     {
       "name": "Online Chat-room System",
       "summary": "An online sucket programming projects which is a chat-room system with managing features over rooms and the security of messages, like a messager app",
-      "highlights": ["Network", "Security", "Sucket"],
+      "highlights": [
+        "Network",
+        "Security",
+        "Sucket"
+      ],
       "startDate": "Aug 2021",
       "endDate": "Sept 2021"
     }
