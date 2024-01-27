@@ -5,7 +5,6 @@ description: A simulated bread-board in python and pygame for graphics
 img: assets/img/digi-board.png
 importance: 1
 category: school
-related_publications: true
 tag: simulation, logic circuit, python, pygame
 ---
 
